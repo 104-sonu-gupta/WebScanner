@@ -1,0 +1,24 @@
+# Sample Websites Name and URL
+
+Apache          http://www.apache.org
+
+
+Nginx           http://www.nginx.org
+
+
+Google          https://www.google.com
+
+
+Random User     https://randomuser.me
+
+
+Facebook        https://www.facebook.com
+
+
+Wikipedia       https://en.wikipedia.org
+
+
+GFG             https://www.geeksforgeeks.org/
+
+
+Amazon          https://www.amazon.in/

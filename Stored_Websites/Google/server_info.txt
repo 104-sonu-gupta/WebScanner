@@ -1,0 +1,24 @@
+Server:  dsldevice.lan
+Address:  192.168.1.1
+
+google.com
+	primary name server = ns1.google.com
+	responsible mail addr = dns-admin.google.com
+	serial  = 412009589
+	refresh = 900 (15 mins)
+	retry   = 900 (15 mins)
+	expire  = 1800 (30 mins)
+	default TTL = 60 (1 min)
+
+google.com	nameserver = ns4.google.com
+google.com	nameserver = ns1.google.com
+google.com	nameserver = ns2.google.com
+google.com	nameserver = ns3.google.com
+ns3.google.com	internet address = 216.239.36.10
+ns3.google.com	AAAA IPv6 address = 2001:4860:4802:36::a
+ns1.google.com	internet address = 216.239.32.10
+ns1.google.com	AAAA IPv6 address = 2001:4860:4802:32::a
+ns4.google.com	internet address = 216.239.38.10
+ns4.google.com	AAAA IPv6 address = 2001:4860:4802:38::a
+ns2.google.com	internet address = 216.239.34.10
+ns2.google.com	AAAA IPv6 address = 2001:4860:4802:34::a

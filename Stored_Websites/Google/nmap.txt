@@ -1,0 +1,10 @@
+1	 21	 	ftp
+2	 22	 	ssh
+3	 23	 	telnet
+4	 25	 	smtp
+5	 80	 	http
+6	 110	 	pop3
+7	 139	 	netbios-ssn
+8	 443	 	https
+9	 445	 	microsoft-ds
+10	 3389	 	ms-wbt-server

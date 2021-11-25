@@ -1,0 +1,11 @@
+Server:  dsldevice.lan
+Address:  192.168.1.1
+
+facebook.com
+	primary name server = a.ns.facebook.com
+	responsible mail addr = dns.facebook.com
+	serial  = 2965795798
+	refresh = 14400 (4 hours)
+	retry   = 1800 (30 mins)
+	expire  = 604800 (7 days)
+	default TTL = 300 (5 mins)

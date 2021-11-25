@@ -1,0 +1,8 @@
+ 
+    
+    domain name : nginx.org
+    
+    Full URL    : http://www.nginx.org
+    
+    IP Address  : 3.125.197.172
+    

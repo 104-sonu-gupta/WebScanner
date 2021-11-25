@@ -1,0 +1,18 @@
+Server:  dsldevice.lan
+Address:  192.168.1.1
+
+nginx.org
+	primary name server = ns.nginx.org
+	responsible mail addr = hostmaster.nginx.com
+	serial  = 201304526
+	refresh = 28800 (8 hours)
+	retry   = 7200 (2 hours)
+	expire  = 604800 (7 days)
+	default TTL = 86400 (1 day)
+
+nginx.org	nameserver = ns.nginx.org
+nginx.org	nameserver = ns2.nginx.org
+nginx.org	nameserver = ns3.nginx.org
+ns.nginx.org	internet address = 206.251.255.60
+ns2.nginx.org	internet address = 95.211.80.227
+ns3.nginx.org	internet address = 62.210.92.35

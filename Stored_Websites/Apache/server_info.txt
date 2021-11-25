@@ -1,0 +1,11 @@
+Server:  dsldevice.lan
+Address:  192.168.1.1
+
+apache.org
+	primary name server = ns-558.awsdns-05.net
+	responsible mail addr = awsdns-hostmaster.amazon.com
+	serial  = 1
+	refresh = 7200 (2 hours)
+	retry   = 900 (15 mins)
+	expire  = 1209600 (14 days)
+	default TTL = 86400 (1 day)
