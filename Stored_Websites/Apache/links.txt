@@ -302,29 +302,29 @@ http://community.apache.org/
 
 http://www.apache.org/foundation/press/kit/#powerby
 
-http://dolphinscheduler.apache.org
+http://kylin.apache.org/
 
-http://dolphinscheduler.apache.org
+http://kylin.apache.org/
 
-http://thrift.apache.org/
+http://maven.apache.org/
 
-http://thrift.apache.org/
+http://maven.apache.org/
 
-http://usergrid.apache.org/
+http://ranger.apache.org/
 
-http://usergrid.apache.org/
+http://ranger.apache.org/
 
-http://liminal.incubator.apache.org/
+http://toree.incubator.apache.org/
 
-http://liminal.incubator.apache.org/
+http://toree.incubator.apache.org/
 
-http://nemo.incubator.apache.org/
+http://tuweni.incubator.apache.org/
 
-http://nemo.incubator.apache.org/
+http://tuweni.incubator.apache.org/
 
-http://hop.incubator.apache.org/
+http://sedona.incubator.apache.org/
 
-http://hop.incubator.apache.org/
+http://sedona.incubator.apache.org/
 
 https://projects.apache.org/
 

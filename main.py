@@ -94,6 +94,8 @@ gather_info(website_name, website_url)
 
 # gather_info("Google", "https://www.google.com")
 
+# gather_info("CodingNinja", "https://www.codingninjas.com")
+
 # gather_info("Facebook", "https://www.facebook.com")
 
 # gather_info("Amazon", "https://www.amazon.in/")

@@ -6,23 +6,23 @@ https://www.google.co.in/intl/en/about/products
 
 https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://www.google.com/&ec=GAZAmgQ
 
-https://www.google.com/setprefs?sig=0_Km89RcYfBcNjJFO82d49khxvzGc%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwiW0oKUu7T0AhXo4XMBHVOZDuMQ2ZgBCA0
+https://www.google.com/setprefs?sig=0_4794B4q6CDP_x6g7mWhLstid8Qs%3D&hl=hi&source=homepage&sa=X&ved=0ahUKEwiOlJiFsrX0AhWJILkGHepKAakQ2ZgBCA0
 
-https://www.google.com/setprefs?sig=0_Km89RcYfBcNjJFO82d49khxvzGc%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwiW0oKUu7T0AhXo4XMBHVOZDuMQ2ZgBCA4
+https://www.google.com/setprefs?sig=0_4794B4q6CDP_x6g7mWhLstid8Qs%3D&hl=bn&source=homepage&sa=X&ved=0ahUKEwiOlJiFsrX0AhWJILkGHepKAakQ2ZgBCA4
 
-https://www.google.com/setprefs?sig=0_Km89RcYfBcNjJFO82d49khxvzGc%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwiW0oKUu7T0AhXo4XMBHVOZDuMQ2ZgBCA8
+https://www.google.com/setprefs?sig=0_4794B4q6CDP_x6g7mWhLstid8Qs%3D&hl=te&source=homepage&sa=X&ved=0ahUKEwiOlJiFsrX0AhWJILkGHepKAakQ2ZgBCA8
 
-https://www.google.com/setprefs?sig=0_Km89RcYfBcNjJFO82d49khxvzGc%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwiW0oKUu7T0AhXo4XMBHVOZDuMQ2ZgBCBA
+https://www.google.com/setprefs?sig=0_4794B4q6CDP_x6g7mWhLstid8Qs%3D&hl=mr&source=homepage&sa=X&ved=0ahUKEwiOlJiFsrX0AhWJILkGHepKAakQ2ZgBCBA
 
-https://www.google.com/setprefs?sig=0_Km89RcYfBcNjJFO82d49khxvzGc%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwiW0oKUu7T0AhXo4XMBHVOZDuMQ2ZgBCBE
+https://www.google.com/setprefs?sig=0_4794B4q6CDP_x6g7mWhLstid8Qs%3D&hl=ta&source=homepage&sa=X&ved=0ahUKEwiOlJiFsrX0AhWJILkGHepKAakQ2ZgBCBE
 
-https://www.google.com/setprefs?sig=0_Km89RcYfBcNjJFO82d49khxvzGc%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwiW0oKUu7T0AhXo4XMBHVOZDuMQ2ZgBCBI
+https://www.google.com/setprefs?sig=0_4794B4q6CDP_x6g7mWhLstid8Qs%3D&hl=gu&source=homepage&sa=X&ved=0ahUKEwiOlJiFsrX0AhWJILkGHepKAakQ2ZgBCBI
 
-https://www.google.com/setprefs?sig=0_Km89RcYfBcNjJFO82d49khxvzGc%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwiW0oKUu7T0AhXo4XMBHVOZDuMQ2ZgBCBM
+https://www.google.com/setprefs?sig=0_4794B4q6CDP_x6g7mWhLstid8Qs%3D&hl=kn&source=homepage&sa=X&ved=0ahUKEwiOlJiFsrX0AhWJILkGHepKAakQ2ZgBCBM
 
-https://www.google.com/setprefs?sig=0_Km89RcYfBcNjJFO82d49khxvzGc%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwiW0oKUu7T0AhXo4XMBHVOZDuMQ2ZgBCBQ
+https://www.google.com/setprefs?sig=0_4794B4q6CDP_x6g7mWhLstid8Qs%3D&hl=ml&source=homepage&sa=X&ved=0ahUKEwiOlJiFsrX0AhWJILkGHepKAakQ2ZgBCBQ
 
-https://www.google.com/setprefs?sig=0_Km89RcYfBcNjJFO82d49khxvzGc%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwiW0oKUu7T0AhXo4XMBHVOZDuMQ2ZgBCBU
+https://www.google.com/setprefs?sig=0_4794B4q6CDP_x6g7mWhLstid8Qs%3D&hl=pa&source=homepage&sa=X&ved=0ahUKEwiOlJiFsrX0AhWJILkGHepKAakQ2ZgBCBU
 
 https://about.google/?utm_source=google-IN&utm_medium=referral&utm_campaign=hp-footer&fg=1
 

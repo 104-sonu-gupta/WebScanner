@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.codingninjas.com/sitemap.xml
+Sitemap: https://www.codingninjas.com/blog/sitemap_index.xml
+Sitemap: https://www.codingninjas.com/content_sitemap.xml

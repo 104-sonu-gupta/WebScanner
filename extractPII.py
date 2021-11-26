@@ -2,13 +2,9 @@
 import re
 from requests_html import HTMLSession
 import ssl
-from bs4 import BeautifulSoup
-
-dat = dict()
 
 def getInfo(url):
     session = HTMLSession()
-    ssl._create_default_https_context = ssl._create_unverified_context
     html = session.get(url)
     html_source_code = html.text
     
@@ -39,4 +35,4 @@ def getInfo(url):
 
     return phoneNmail
     
-# print(getInfo('https://www.nitt.edu/'))
+# print(getInfo('https://www.codingninjas.com/'))

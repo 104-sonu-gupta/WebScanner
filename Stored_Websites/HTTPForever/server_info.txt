@@ -1,0 +1,11 @@
+Server:  dsldevice.lan
+Address:  192.168.1.1
+
+httpforever.com
+	primary name server = karina.ns.cloudflare.com
+	responsible mail addr = dns.cloudflare.com
+	serial  = 2038305375
+	refresh = 10000 (2 hours 46 mins 40 secs)
+	retry   = 2400 (40 mins)
+	expire  = 604800 (7 days)
+	default TTL = 3600 (1 hour)
