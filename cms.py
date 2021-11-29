@@ -1,7 +1,5 @@
 from urllib.request import urlopen
 
-
-
 def get_cms(url):
     if url.endswith('/'):
         path=url

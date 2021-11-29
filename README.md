@@ -3,3 +3,5 @@
 pip install requests-html art python3-nmap tld
 
 Run above command in terminal to download the required packages for this project.
+
+Also you need to download nmap application from https://nmap.org/download.html

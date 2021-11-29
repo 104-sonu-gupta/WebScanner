@@ -1,7 +1,5 @@
-
 import re
 from requests_html import HTMLSession
-import ssl
 
 def getInfo(url):
     session = HTMLSession()

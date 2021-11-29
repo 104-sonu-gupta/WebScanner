@@ -1,5 +1,4 @@
 import subprocess
-import sys
 
 def getDNSInfo(url):
     print("NSLOOKUP using SOA -")
